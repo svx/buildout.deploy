@@ -1,5 +1,5 @@
-import os
-import os.path
+#import os
+#import os.path
 from fabric.api import env, cd, run, roles
 
 env.roledefs = {
